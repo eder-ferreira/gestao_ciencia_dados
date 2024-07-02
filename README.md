@@ -20,8 +20,18 @@ Resumidamente o objetivo desta análise é a demontração dos números obtidos 
 # 2. Passos da Análise Exploratoria:
 
 Vamos realizar uma análise exploratória dos dados visando identificar padrões e características importantes que possa nos contar uma história sobre o naufrágio.
-- Resumo estatístico das colunas numéricas
-- Verificar valores ausentes
-- Distribuição das variáveis categóricas
-- Análise de sobrevivência por diferentes características (genero, classe, idade.)
-- Correlação entre variáveis
+
+-Carregamento de Dados
+-Acessando o Spark UI (Google Colab)
+-Montando o drive
+-Carregando os dados
+-Analisando os dados
+-Manipulando os dados
+-Modificando os tipos de dados
+-Identificando valores nulos
+-Filtrando dados
+-Sumarizando os dados
+-Spark SQl
+-Armazenando em CSV
+-Armazenando em Parquet
+-Particionamento de dados
