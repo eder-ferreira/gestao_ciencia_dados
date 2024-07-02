@@ -17,7 +17,7 @@ Resumidamente o objetivo desta análise é a demontração dos números obtidos 
 - https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
-# 2. Passos da Análise Exploratoria:
+# 2. Passos do tratamento e análise:
 
 Vamos realizar uma análise exploratória dos dados visando identificar padrões e características importantes que possa nos contar uma história sobre o naufrágio.
 
