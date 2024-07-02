@@ -35,3 +35,5 @@ Vamos realizar uma análise exploratória dos dados visando identificar padrões
 - Armazenando em CSV
 - Armazenando em Parquet
 - Particionamento de dados
+
+https://colab.research.google.com/drive/1qbOOoQPgOZVza9eCQhE2ko66T0n-8Biv#scrollTo=5MS3xaSl1Zk1
