@@ -36,4 +36,4 @@ Vamos realizar uma análise exploratória dos dados visando identificar padrões
 - Armazenando em Parquet
 - Particionamento de dados
 
-https://colab.research.google.com/drive/1gtVmOvxviKZKcTExqb0EonHX_Rg05Kcg?authuser=1
+https://colab.research.google.com/drive/1yiCwI6BNPqGbTboWlhaMT9QajEzlacxd?authuser=2
